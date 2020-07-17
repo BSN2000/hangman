@@ -1,10 +1,10 @@
 '''
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
+welcome to the hangman game
+this hang man is divided into parts as shown below
+part 1:introduction and initialization of the required variables and taking the input
+part 2:validation of the input given by user
+part 3:checking the if the letter is available in selected in word
+part 4:printing whether the user have guessed the word or not
 '''
 import random
 from collections import Counter
